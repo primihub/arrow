@@ -22,5 +22,5 @@
 // included before either of these files is compiled. Because we don't want to
 // edit the generated C++ files, we include them here and do our gRPC
 // customizations in protocol-internal.h
-#include "arrow/flight/Flight.grpc.pb.cc"  // NOLINT
-#include "arrow/flight/Flight.pb.cc"       // NOLINT
+//#include "arrow/flight/Flight.grpc.pb.cc"  // NOLINT
+//#include "arrow/flight/Flight.pb.cc"       // NOLINT
